@@ -10,7 +10,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 logging.basicConfig(level=logging.INFO)
 
 # Token configuration - from environment variable (Render) or local file
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8866131430:AAE6GVmZ7x5do3Bb5n03H8THNbY5KW-BmV4")
 
 if not BOT_TOKEN:
     try:
